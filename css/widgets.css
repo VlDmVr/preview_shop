@@ -1,0 +1,4 @@
+div #widget_slider{border: 1px solid black; margin-bottom: 10px; overflow: hidden; display: none; position: relative; width: 928px; height: 400px;}
+#right_arrow{position: absolute;cursor: pointer; width: 65px; height: 65px;}
+#left_arrow{position: absolute;cursor: pointer; width: 65px; height: 65px;}
+
